@@ -1,0 +1,5 @@
+f = open('myfile.txt', 'w')
+f.write('This is the first line.\n')
+f.write('Second line same as the first.\n')
+f.write('This is the last line.\n')
+f.close()

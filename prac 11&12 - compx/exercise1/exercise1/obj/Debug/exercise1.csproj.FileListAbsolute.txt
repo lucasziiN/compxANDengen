@@ -1,0 +1,11 @@
+C:\Users\lucas\OneDrive\uni\compx101 - practicals\prac 11&12 - compx\exercise1\exercise1\obj\Debug\exercise1.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\uni\compx101 - practicals\prac 11&12 - compx\exercise1\exercise1\obj\Debug\exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\uni\compx101 - practicals\prac 11&12 - compx\exercise1\exercise1\obj\Debug\exercise1.Form1.resources
+C:\Users\lucas\OneDrive\uni\compx101 - practicals\prac 11&12 - compx\exercise1\exercise1\obj\Debug\exercise1.Properties.Resources.resources
+C:\Users\lucas\OneDrive\uni\compx101 - practicals\prac 11&12 - compx\exercise1\exercise1\obj\Debug\exercise1.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\uni\compx101 - practicals\prac 11&12 - compx\exercise1\exercise1\obj\Debug\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\uni\compx101 - practicals\prac 11&12 - compx\exercise1\exercise1\bin\Debug\exercise1.exe.config
+C:\Users\lucas\OneDrive\uni\compx101 - practicals\prac 11&12 - compx\exercise1\exercise1\bin\Debug\exercise1.exe
+C:\Users\lucas\OneDrive\uni\compx101 - practicals\prac 11&12 - compx\exercise1\exercise1\bin\Debug\exercise1.pdb
+C:\Users\lucas\OneDrive\uni\compx101 - practicals\prac 11&12 - compx\exercise1\exercise1\obj\Debug\exercise1.exe
+C:\Users\lucas\OneDrive\uni\compx101 - practicals\prac 11&12 - compx\exercise1\exercise1\obj\Debug\exercise1.pdb
